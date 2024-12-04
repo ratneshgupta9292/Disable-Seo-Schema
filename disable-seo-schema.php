@@ -1,0 +1,1 @@
+https://wordpress.stackexchange.com/questions/369862/how-to-disable-yoast-seo-schema-from-homepage-only
